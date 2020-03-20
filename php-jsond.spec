@@ -4,7 +4,7 @@
 #
 Name     : php-jsond
 Version  : 1.4.0
-Release  : 4
+Release  : 5
 URL      : https://pecl.php.net//get/jsond-1.4.0.tgz
 Source0  : https://pecl.php.net//get/jsond-1.4.0.tgz
 Summary  : No detailed summary available
